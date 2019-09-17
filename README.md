@@ -6,4 +6,4 @@
 - This is my ultimate project
 - Working on the abstract syntax trees
 - This is going to be a unique language
-
+- One of the goals is to put an end to C++
