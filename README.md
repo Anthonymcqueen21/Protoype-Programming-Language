@@ -10,4 +10,4 @@
 - Its going to work along side Python, and Ruby
 - There is going to be a base
 - There is a going to be a community 
-
+- There is a difference betweeen complexity and simpicity
