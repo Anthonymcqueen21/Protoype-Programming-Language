@@ -12,3 +12,4 @@
 - There is a going to be a community 
 - There is a difference betweeen complexity and simpicity
 - Focus could be for competitive programming
+- Testing, and more Testing
