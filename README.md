@@ -13,3 +13,6 @@
 - There is a difference betweeen complexity and simpicity
 - Focus could be for competitive programming
 - Testing, and more Testing
+- Processes and Algorithms
+- Testing, and more testing
+- Adding ANTLR to the mix
