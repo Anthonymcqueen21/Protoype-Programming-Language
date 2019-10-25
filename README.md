@@ -16,3 +16,4 @@
 - Processes and Algorithms
 - Testing, and more testing
 - Adding ANTLR to the mix
+- She is going to be used in Data Science alongside Python and Julia
