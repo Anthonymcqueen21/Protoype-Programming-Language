@@ -1,20 +1,6 @@
 # New-Programming-Language
-- Under development
-- On paper 
-- working out the theory
-- Will be used for anyone regardless of expeience
-- This is my ultimate project
-- Working on the abstract syntax trees
-- This is going to be a unique language
-- One of the goals is to put an end to C++
-- Its going to work along side Python, and Ruby
-- There is going to be a base
-- There is a going to be a community 
-- There is a difference betweeen complexity and simpicity
-- Focus could be for competitive programming
-- Testing, and more Testing
-- Processes and Algorithms
-- Testing, and more testing
-- Adding ANTLR to the mix
-- She is going to be used in Data Science alongside Python and Julia and Crystal
-- There is got to be a better way
+This language i am building from the ground up with a goal of beating the speed of:
+- C++ 
+- Java
+
+These languages are in the past its time for something else to take over
