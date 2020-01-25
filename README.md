@@ -1,2 +1,2 @@
 # New-Programming-Language
-The overall goal of my language is to retire C++ for good.
+This language will be inspired by Python but faster and more reliable.
